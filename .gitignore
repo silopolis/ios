@@ -42,3 +42,6 @@ Carthage/
 .swiftpm
 Package.resolved
 
+## VSCode
+.vscode
+*.code-workspace
